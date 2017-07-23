@@ -86,5 +86,5 @@ class PageSpeedOnLine:
 if __name__ == '__main__':
     #Make an instance of the Class.
     psol = PageSpeedOnLine()
-    psol.GetSiteAverage()
-    #psol.GetClusterAverage()
+    #psol.GetSiteAverage()
+    psol.GetClusterAverage()
